@@ -5,7 +5,7 @@
 ### A little more about me...  
 
 ```javascript
-const thai = {
+const einerzg = {
   code: [Javascript, Elixir, Java, Kotlin, Python],
   tools: [React, Reac-Native, Node, Phoenix],
 }

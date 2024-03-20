@@ -6,8 +6,8 @@
 
 ```javascript
 const einerzg = {
-  code: [Javascript, Elixir, Java, Kotlin, Python],
-  tools: [React, Reac-Native, Node, Phoenix, Stellar, NEAR],
+  code: [Javascript, Elixir, Python],
+  tools: [React, Reac-Native, Node, Phoenix, Liveview],
 }
 ```
 
